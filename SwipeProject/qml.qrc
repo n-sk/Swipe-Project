@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Cold.svg</file>
+        <file>heat.svg</file>
+        <file>heat-gif.gif</file>
+        <file>cold-gif.gif</file>
+        <file>Page3Form.ui.qml</file>
+        <file>noun_CPU Overheat_1141052.svg</file>
+        <file>Grid.ui.qml</file>
+        <file>noun_Broken Link_37722.svg</file>
+        <file>noun_Error_911854.svg</file>
+        <file>noun_wrong_219691.svg</file>
+        <file>noun_Language_3325148.svg</file>
+    </qresource>
+</RCC>
